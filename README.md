@@ -127,5 +127,6 @@ class CalculatorTest {
 
 Résultat
 
-![testokokok.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e12d7f5-2ad6-4aa3-9c12-a878bce507bb/testokokok.png)
+![testokokok](https://user-images.githubusercontent.com/29838473/193372243-6ca7e663-ceab-4671-8ef8-8cc0cfdc9eb8.png)
+
 # TDD
