@@ -75,7 +75,8 @@ class CalculatorTest {
 
 Ce cas de test est défaillant parce qu’il retourne une erreur au lancement
 
-![testfail.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7eb97d7e-4c5a-4acc-a2f8-6bc1741b047f/testfail.png)
+![testfail](https://user-images.githubusercontent.com/29838473/193371273-36fa9817-95b1-4186-a230-1042b0737bda.png)
+
 
 ### 2- Appliquer la deuxième étape du processus TDD
 
@@ -94,7 +95,8 @@ class CalculatorTest {
 
 Il fonctionne conformément à la logique de la classe
 
-![testokok.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/404fde51-309c-45ba-ab98-05a04e035f5b/testokok.png)
+![testokok](https://user-images.githubusercontent.com/29838473/193371521-51c6e0b6-c252-4b38-9f5a-fe3e81d050bb.png)
+
 
 ### 3- Appliquer la dernière étape du processus TDD
 
