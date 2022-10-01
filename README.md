@@ -6,7 +6,8 @@ Les tests pilotés par le développement, c’est une technique de développemen
 2. **Reécrire les cas de test pour les faire réussir**
 3. **Refactoriser le code et le rendre simple**
 
-![TDD.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ced32ea5-d6f4-4109-8c88-7bf4de4bbd39/TDD.png)
+![Screenshot 2022-10-01 at 02 01 48](https://user-images.githubusercontent.com/29838473/193370732-7f34ee49-374f-43eb-85b6-88fa7c0b2cda.png)
+
 
 ### Règles de l’Uncle Bob
 
