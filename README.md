@@ -100,7 +100,7 @@ Il fonctionne conformément à la logique de la classe
 
 ### 3- Appliquer la dernière étape du processus TDD
 
-Refactoriser le code de la classe pour le rendre plus dynamique et simple
+Refactoriser le code de la classe pour le rendre plus dynamique, simple, et éviter les doublons
 
 ```java
 public class Calculator {
